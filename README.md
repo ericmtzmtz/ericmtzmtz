@@ -47,7 +47,7 @@ Interest:
 
 🧰 Technologies I have worked
 
-<img src="img/html.png" alt="HTML5 Logo" height="50"> <img style="margin-left: 45px" src="img/tailwindcss.png" alt="Tailwindcss Logo" height="70"/> <img style="margin-left: 5px" src="img/python.png" alt="Python Logo" height="60"/><img style="margin-left: -45px" src="img/flask.png" alt="Flask Logo" height="55" /> <img style="margin-left: 35px" src="img/mongo.png" alt="Mongodb Logo" height="65"/> <img style="margin-left: 35px" src="img/electronjs.png" alt="Electronjs Logo" height="65"/> <img style="margin-left: 15px" src="img/fastapi.png" alt="FastAPI Logo" height="70"/><img style="margin-left: -65px" src="img/reactjs.png" alt="Reactjs Logo" height="80"/> <img style="margin-left: 20px" src="img/docker.png" alt="Docker Logo" height="65"/> 
+<img src="img/html.png" alt="HTML5 Logo" height="50"> <img style="margin-left: 45px" src="img/tailwindcss.png" alt="Tailwindcss Logo" height="70"/> <img style="margin-left: 5px" src="img/python.png" alt="Python Logo" height="60"/><img style="margin-left: -45px" src="img/flask.png" alt="Flask Logo" height="55" /> <img style="margin-left: 35px" src="img/mongo.png" alt="Mongodb Logo" height="65"/> <img style="margin-left: 35px" src="img/electronjs.png" alt="Electronjs Logo" height="65"/> <img style="margin-left: 15px" src="img/fastapi.png" alt="FastAPI Logo" height="70"/><img style="margin-left: -65px" src="img/reactjs.png" alt="Reactjs Logo" height="50"/> <img style="margin-left: 20px" src="img/docker.png" alt="Docker Logo" height="65"/> 
 
 
 ---
