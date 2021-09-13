@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - - -
 I'm a software enginnering that love create new stuffs and learn on every chance that present to me.
 
-I'm really interesting on realt time data, transmition and reception, I love it. Always I'm get in cools projects that helpfull for the people.
+I am very interested in the management, arrangement, data reporting, data management in real time (transmission and reception), I love it. I always get into great projects that help people.
 
 Interest:
 
