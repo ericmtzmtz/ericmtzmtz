@@ -27,7 +27,7 @@ Interest:
 - Malware Analisis
 - Frontend and backend
 - Event driven
-- Microservices
+- Services Architectures
 - Hexagonal Architectures
 ---
 
